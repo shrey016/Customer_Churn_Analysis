@@ -89,16 +89,15 @@ The following models were trained and evaluated:
 
 ---
 
-## 📈 Tableau Dashboard
+
+🔗 **Tableau Dashboard:**  
+[View Customer Churn Dashboard](https://public.tableau.com/views/CustomerChurnanalysis_17742423660600/ChurnRate?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Interactive dashboards were created to visualize:
 
 * Churn distribution across customer segments
 * Impact of contract type, services, and payment methods
 * Key churn-driving factors
-
-Here is the link for the same :
-[Tableau] (https://public.tableau.com/views/CustomerChurnanalysis_17742423660600/ChurnRate?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 🧠 Key Business Insights
